@@ -39,9 +39,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedp18&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vedp18&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedp18&layout=compact&theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=vedp18&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
 </p>
 
