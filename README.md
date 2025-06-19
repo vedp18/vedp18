@@ -1,4 +1,4 @@
-<h2 align="center">Namaskara 🙏🏼 I'm Ved</h2>
+<h1 align="center">Namaskara 🙏🏼 I'm Ved</h1>
 
 <p align="center">
   <em>B.E. Computer Engineering (2025) · Flutter & Android Developer · Idea-Driven Creator</em>
