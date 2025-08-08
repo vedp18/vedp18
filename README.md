@@ -1,16 +1,17 @@
 <h1 align="center">Namaskara 🙏🏼 I'm Ved</h1>
 
 <p align="center">
-  <em>B.E. Computer Engineering (2025) · Flutter & Android Developer · Idea-Driven Creator</em>
+  <em>B.E. Computer Engineering (2025) · Flutter & Android Developer · Python Developer · Idea-Driven Creator</em>
 </p>
 
 ---
 
 ### 💼 What I Do
-- 📱 Building elegant and practical mobile apps with **Flutter**
+- 📱 Building elegant and practical mobile apps with **Flutter** and backends with python-django
 - ⚙️ Working with Firebase, BLoC, Provider, Hive, and Android SDK
 - 🎯 Focused on user experience, performance, and offline-first apps
 - 💡 Turning real-world needs into usable tools
+- 🛠  Working Python Django for backend
 
 ---
 
